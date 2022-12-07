@@ -1,6 +1,8 @@
 # chatwork.el-ng
 Chatwork client for emacs-ng.
 
+forked: https://github.com/ataka/chatwork
+
 
 ## how to use
 ```lisp
